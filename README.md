@@ -15,4 +15,4 @@ Python 3 is required for the model to operate.
 A testing in the code verifies that the provided model is functioning. Unit tests encompass a wide range of scenarios, such as emergency situations, agent interactions, and diverse traffic circumstances. The traffic simulation's accuracy and dependability are guaranteed by the testing procedure.
 
 ##
-This project is licensed under the [License Name] - see the LICENSE file for details.
+This project is licensed under the License MIT - see the LICENSE file for details.
